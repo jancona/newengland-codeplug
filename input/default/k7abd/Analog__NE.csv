@@ -1,0 +1,4 @@
+Zone,Channel Name,Bandwidth,Power,RX Freq,TX Freq,CTCSS Decode,CTCSS Encode,TX Prohibit
+APRS Zone,APRS-Analog,25K,Turbo,144.39,144.39,Off,Off,Off
+Simplex,FM 146.520,25K,Turbo,146.52,146.52,Off,Off,Off
+Simplex,FM 446.000,25K,Turbo,446,446,Off,Off,Off
